@@ -1,0 +1,10 @@
+<config 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
+    <template id="test_emailTemplate"
+              label="Test Email Template"
+              file="testemail.html"
+              type="html"
+              module="Bluethink_EmailTemplate"
+              area="frontend"
+    />
+</config>
